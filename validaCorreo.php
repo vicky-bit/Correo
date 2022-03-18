@@ -11,7 +11,7 @@
         
     
     $agenda = array(array("Nombre"=>"Jorge",
-                                  "Dirección"=>"Madrid",
+                                  "Dirección"=>"Burgos",
                                   "Telefono"=>999999999,
                                   "Correo"=>"jorge@correo.com"),
                             array("Nombre"=>"Julia",
