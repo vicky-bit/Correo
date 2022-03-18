@@ -30,10 +30,6 @@
                                   "Dirección"=>"Valencia",
                                   "Telefono"=>555555555,
                                   "Correo"=>"martin@educa.madrid.org"),
-                            array("Nombre"=>"Laura",
-                                  "Dirección"=>"Sevilla",
-                                  "Telefono"=>444444444,
-                                  "Correo"=>"Laura@hotmail.com"),
                 );
     
     
